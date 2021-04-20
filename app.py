@@ -25,7 +25,6 @@ def predict_demand(bicycle: BicycleDemandParams):
 
     return {
         'prediction':prediction,
-        #'probability':probability
     }
 
 # 4. Ejecucion de la API
